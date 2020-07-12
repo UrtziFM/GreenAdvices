@@ -1,0 +1,23 @@
+@media (min-width: 768px) {
+  
+    @import url('https://fonts.googleapis.com/css?family=Lobster');
+
+    .body {
+        background-color: green;
+        color: #111111;
+        font-family: 'Lobster', cursive;
+        height: 85vh;
+    }
+    
+    }
+    
+    @media (max-width: 767px) {
+        @import url('https://fonts.googleapis.com/css?family=Lobster');
+     
+        .body {
+            background-color: green;
+            color: #111111;
+            font-family: 'Lobster', cursive;
+            height: 85vh;
+        }
+    }
