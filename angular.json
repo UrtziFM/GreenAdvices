@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "green-app"
+    }
+  },
+  "defaultProject": "green-app",
+  "cli": {
+    "analytics": false
+  }
 }
